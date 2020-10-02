@@ -36,6 +36,7 @@ Angularで構築されたシステムを全てVue.jsに置き換える作業を�
 
 # Works👨‍🔧
 ### ☑ShareCards(Ruby on Rails)
+https://github.com/shu-pf/share_cards_new
 ダウンロードカードを自宅で簡単に作るサイト
 
 ### ☑クイズサイト(Ruby on Rails)
