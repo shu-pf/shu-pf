@@ -49,14 +49,6 @@ Open id connectなどの認証系の開発を経験。
 https://github.com/shu-pf/share_cards_new
 ダウンロードカードを自宅で簡単に作るサイト
 
-### ☑クイズサイト(Ruby on Rails)
-https://github.com/shu-pf/questionapp
-問題を登録し、回答させることが出来るWEBサービスです。
-
-### ☑学習塾のサイト
-(https://github.com/shu-pf/seeds-website)
-レスポンシブである事と、キャッシュを用いたサイトの表示高速化にこだわりました。
-
 <!--
 **shu-pf/shu-pf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
