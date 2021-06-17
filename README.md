@@ -45,9 +45,22 @@ Google App EngineやGo用いてのシステム開発。
 Open id connectなどの認証系の開発を経験。
 
 # Works👨‍🔧
-### ☑ShareCards(Ruby on Rails)
+
+### ShareCards(Ruby on Rails)
 https://github.com/shu-pf/share_cards_new
+個人開発
 ダウンロードカードを自宅で簡単に作るサイト
+
+### 活魚なみき 公式サイト(Vue.js + Nuxt.js)
+https://github.com/shu-pf/namiki-new
+個人開発
+鮮魚店 活魚なみきの公式サイト
+
+# Open Source✨
+
+### tldr
+https://github.com/tldr-pages/tldr
+日本語への翻訳活動
 
 <!--
 **shu-pf/shu-pf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
